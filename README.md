@@ -6,7 +6,7 @@
 Запуск прилождений
 `python3 kvur.py`
 
-Пример кода 
+Пример кода:
 ```python3
 while bad_data:
     try:
